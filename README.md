@@ -1,6 +1,9 @@
-Call me Kira, user @shakira7
-Trying to learn how to code
-Java, HTML CSS, C++, and other thingies
+Call me Kira, user @shakira7.
+
+Trying to learn how to code (help)
+
+Java, HTML CSS, C++, and other thingies!!!!! /silly
+
 Ya
 
 <!---
